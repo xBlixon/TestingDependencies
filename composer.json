@@ -3,7 +3,7 @@
     "description": "This package is made to test packages that require dependencies.",
     "require": {
         "php": "^8.2",
-        "velsym/universal-pack": "main-dev"
+        "velsym/universal-pack": "dev-main"
     },
     "license": "MIT",
     "autoload": {

@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "aa74709af6ef16f3b4717de1491f88ff",
+    "packages": [
+        {
+            "name": "velsym/universal-pack",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/xBlixon/UniversalPack.git",
+                "reference": "32ce5e32d4b4f54e34a0d82faddde43be8685995"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/xBlixon/UniversalPack/zipball/32ce5e32d4b4f54e34a0d82faddde43be8685995",
+                "reference": "32ce5e32d4b4f54e34a0d82faddde43be8685995",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^10.5"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Velsym\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Xawier Slupik",
+                    "email": "48760619+xBlixon@users.noreply.github.com"
+                }
+            ],
+            "description": "Connector for velsym packages.",
+            "support": {
+                "issues": "https://github.com/xBlixon/UniversalPack/issues",
+                "source": "https://github.com/xBlixon/UniversalPack/tree/main"
+            },
+            "time": "2024-02-07T17:16:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "velsym/universal-pack": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

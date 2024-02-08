@@ -1,6 +1,6 @@
 <?php
 
-namespace Velsym\TestingDependencies;
+namespace Velsym\TestingDependencies\Classes;
 
 class Surname
 {

@@ -1,6 +1,7 @@
 {
     "name": "velsym/testing-dependencies",
     "description": "This package is made to test packages that require dependencies.",
+    "type": "velsym-pack",
     "require": {
         "php": "^8.2",
         "velsym/universal-pack": "dev-main"
